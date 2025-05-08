@@ -97,7 +97,7 @@ Minimize total transport + setup cost:
 
 ## Files & Usage
 
-- **Data**: `TurkishData.xlsx`  
+- **Data**: `Turkish_network.xls`  
 - **Code**:  
   - `q2a_single_hub.ipynb` — Single-hub algorithm (Problem 2a)  
   - `q2b_multi_hub.ipynb` — MILP model with Gurobi (Problem 2b)
@@ -105,7 +105,7 @@ Minimize total transport + setup cost:
 ### Reproduce Results
 
 1. Clone this repository.  
-2. Place `TurkishData.xlsx` in the project root.  
+2. Place `Turkish_network.xls` in the project root.  
 3. Install dependencies:  
    ```bash
    pip install -r requirements.txt
